@@ -1,0 +1,5 @@
+Question_Type,Question_Text,Option_A,Option_B,Option_C,Option_D,Correct_Answer,Marks
+MCQ,Which data structure uses LIFO order?,Stack,Queue,Linked List,Tree,Stack,1
+TF,Java is a statically typed language,True,False,,,True,1
+Fill,CPU stands for ______.,,,,,Central Processing Unit,1
+OneWord,What is the binary of 5?,,,,,101,1

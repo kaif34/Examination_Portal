@@ -1,0 +1,44 @@
+Question_Type,Question_Text,Option_A,Option_B,Option_C,Option_D,Correct_Answer,Marks
+MCQ,What is the capital of India?,New Delhi,Mumbai,Kolkata,Chennai,New Delhi,1
+MCQ,What is 5 + 3?,6,7,8,9,8,1
+MCQ,Who developed Python?,Guido van Rossum,James Gosling,Bjarne Stroustrup,Dennis Ritchie,Guido van Rossum,1
+TF,HTML is a programming language,,,,,FALSE,1
+MCQ,Which one is a fruit?,Carrot,Potato,Apple,Spinach,Apple,1
+TF,The sky is blue,,,,,TRUE,1
+MCQ,What does CPU stand for?,Central Processor Unit,Computer Processing Unit,Central Processing Unit,Control Processing Unit,Central Processing Unit,1
+MCQ,Which tag is used for paragraphs in HTML?,<br>,<a>,<div>,<p>,<p>,1
+TF,Python is case-sensitive,,,,,TRUE,1
+MCQ,Which company created Windows OS?,Apple,Google,Microsoft,IBM,Microsoft,1
+MCQ,Which of these is a mammal?,Shark,Whale,Crocodile,Octopus,Whale,1
+TF,2 is an even number,,,,,TRUE,1
+MCQ,Which operator is used for addition in Python?,*,%,+,/,+,1
+MCQ,Which one is a backend language?,HTML,CSS,Java,Photoshop,Java,1
+TF,Water boils at 100°C,,,,,TRUE,1
+MCQ,Who is known as the father of computers?,Bill Gates,Charles Babbage,Steve Jobs,Tim Berners-Lee,Charles Babbage,1
+MCQ,What is the full form of RAM?,Random Access Memory,Read Access Memory,Run Accept Memory,Real Access Module,Random Access Memory,1
+TF,RAM is volatile memory,,,,,TRUE,1
+MCQ,Which of these is not a programming language?,Python,Java,Snake,C++,Snake,1
+MCQ,Which protocol is used for web?,FTP,SMTP,HTTP,SSH,HTTP,1
+TF,HTTP stands for HyperText Transfer Protocol,,,,,TRUE,1
+MCQ,What color are stop signs?,Green,Yellow,Red,Blue,Red,1
+MCQ,Which device is used for printing?,Monitor,Scanner,Keyboard,Printer,Printer,1
+TF,A triangle has four sides,,,,,FALSE,1
+MCQ,Which one is not an OS?,Linux,Windows,MacOS,Chrome,Chrome,1
+MCQ,What is 10 / 2?,2,5,10,20,5,1
+TF,JavaScript and Java are the same thing,,,,,FALSE,1
+MCQ,What is the shortcut for copy?,Ctrl+C,Ctrl+X,Ctrl+,,,1
+MCQ,Which gas do plants absorb from the atmosphere?,Oxygen,Carbon Dioxide,Nitrogen,Hydrogen,Carbon Dioxide,1
+TF,Photosynthesis requires sunlight,,,,,TRUE,1
+MCQ,Which is the largest planet in the Solar System?,Earth,Mars,Saturn,Jupiter,Jupiter,1
+MCQ,Which one is not a primary color?,Red,Blue,Green,Purple,Purple,1
+TF,The human heart has four chambers,,,,,TRUE,1
+MCQ,Which programming language is known for AI and ML?,Java,C++,Python,Ruby,Python,1
+MCQ,Which file extension is used for HTML?,.htm,.html,.xml,.js,.html,1
+TF,The moon is a star,,,,,FALSE,1
+MCQ,Who wrote the national anthem of India?,Tagore,Gandhi,Nehru,Patel,Tagore,1
+MCQ,Which one is a web browser?,Excel,Chrome,PowerPoint,Photoshop,Chrome,1
+TF,Java uses the concept of OOP,,,,,TRUE,1
+MCQ,What is the output of 3 ** 2 in Python?,6,8,9,5,9,1
+MCQ,Which layer in OSI model is responsible for routing?,Network,Transport,Data Link,Session,Network,1
+TF,MySQL is a relational database system,,,,,TRUE,1
+MCQ,What does GUI stand for?,Graphical User Interface,General Unit Interface,Graphical Unit Interface,Generic User Interface,Graphical User Interface,1

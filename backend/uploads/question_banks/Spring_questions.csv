@@ -1,0 +1,11 @@
+Question_Type,Question_Text,Option_A,Option_B,Option_C,Option_D,Correct_Answer, Marks
+MCQ,Which annotation is used to mark a Spring Boot main class?,@SpringApplication,@SpringBootApplication,@Configuration,Component,@SpringBootApplication,1
+MCQ,Which file is commonly used for configuration in a Spring Boot project?,app.config,bootstrap.xml,application.properties,config.yaml,application.properties,1
+OneWord,The embedded server used by default in Spring Boot is ________.,,,,,Tomcat,1
+TF,Spring Boot requires external application servers like Tomcat or Jetty to run.,,,,,FALSE,1
+Fill,Spring Boot uses ________ to simplify dependency management.,,,,,Starter POMs,1
+MCQ,Which command is used to run a Spring Boot application from the terminal?,java run app,spring-boot:start,mvn spring-boot:run,start springboot,mvn spring-boot:run,1
+OneWord,The main class of a Spring Boot application must contain a ________ method.,,,,,main,1
+TF,Microservices in Spring Boot can communicate using REST APIs.,,,,,TRUE,1
+Fill,In a microservice architecture, each service runs in its own ________.,,,,process,1
+MCQ,Which annotation is used to create a REST API controller in Spring Boot?,@RestService,@RestController,@Service,@ControllerAPI,@RestController,1
